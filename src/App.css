@@ -1,0 +1,41 @@
+.global{
+    border: 2px solid black;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(214, 214, 214);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin: auto;
+}
+
+
+
+
+.boton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.input-wrapper input {
+    margin-top: 20px;
+}
+
+
+
+
+
+li {
+    background-color:rgb(214, 214, 214) ;
+    list-style: none;
+    border: 2px solid black;
+    text-align: center;
+    width: 450px;
+    margin: auto;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+li  span {
+    text-decoration:underline;
+}
