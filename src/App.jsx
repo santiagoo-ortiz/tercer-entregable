@@ -1,7 +1,6 @@
 
 import './App.css'
 import FormProduct from './components/FormProduct'
-import productData from './data/ProductData'
 import { useState, useEffect } from "react"
 import ProductsList from './components/ProductsList'
 import axios from 'axios'
